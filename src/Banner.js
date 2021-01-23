@@ -30,6 +30,8 @@ function Banner() {
     width: "100%",
     playerVars: {
       autoplay: 1,
+      showinfo: 0,
+      controls: 0,
     },
   };
 
